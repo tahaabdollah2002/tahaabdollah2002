@@ -43,5 +43,11 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a>
-
+</br>
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tahaabdollah2002&&theme=xcode)](https://github.com/tahaabdollah2002)
+</br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahaabdollah2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tahaabdollah2002" /></p>
+</br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahaabdollah2002&show_icons=true&locale=en&theme=tokyonight" alt="tahaabdollah2002" /></p>
+</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahaabdollah2002&&theme=tokyonight" alt="tahaabdollah2002" /></p>
