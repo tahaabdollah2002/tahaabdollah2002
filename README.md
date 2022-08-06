@@ -46,8 +46,8 @@ I love the entire process of developing creative websites. I love the challenge 
 </br>
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tahaabdollah2002&&theme=xcode)](https://github.com/tahaabdollah2002)
 </br>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahaabdollah2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tahaabdollah2002" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahaabdollah2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tahaabdollah2002" /></p>
 </br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahaabdollah2002&show_icons=true&locale=en&theme=tokyonight" alt="tahaabdollah2002" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahaabdollah2002&show_icons=true&locale=en&theme=tokyonight" alt="tahaabdollah2002" /></p>
 </br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahaabdollah2002&&theme=tokyonight" alt="tahaabdollah2002" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahaabdollah2002&&theme=tokyonight" alt="tahaabdollah2002" /></p>
