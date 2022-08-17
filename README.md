@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/75626161/182242774-b37fa7b7-8d0e-4493-8025-24e34c6c0b0f.png" alt="my banner">
+  <img src="https://user-images.githubusercontent.com/75626161/185223177-0bba5f80-9e3c-433b-a019-cb35ceae1589.png" alt="my banner">
 </p>
                                                                                                                                            
 <h3 align="center">
@@ -7,7 +7,7 @@ Hi there, I'm Taha 👋
 </h3>
                   
 <h2 align="center">
-I'm a Front-End Web Developer 💻 and Designer 🎨!
+I'm a Front-End Web Developer 💻 and UI/UX Designer 🎨!
 </h2> 
                   
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
@@ -49,5 +49,4 @@ I love the entire process of developing creative websites. I love the challenge 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahaabdollah2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tahaabdollah2002" /></p>
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahaabdollah2002&show_icons=true&locale=en&theme=tokyonight" alt="tahaabdollah2002" /></p>
-</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahaabdollah2002&&theme=tokyonight" alt="tahaabdollah2002" /></p>
